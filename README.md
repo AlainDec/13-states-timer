@@ -7,3 +7,9 @@ Objectif : découvrir les states et certaines fonctions avancées de React Nativ
 3. Ajoutez le hook **useEffect** à votre composant et à l'intérieur de celui-ci lancer un timer (**setInterval**) qui permet de donner l'heure courante au state toutes les secondes
 4. Faites en sorte que le timer s'arrête lorsque le composant disparaît de l'écran
 5. Affichez la date au format local "hh:mm:ss".
+
+-----
+
+installer la navigation
+
+$ npm install @react-navigation/native @react-navigation/native-stack
