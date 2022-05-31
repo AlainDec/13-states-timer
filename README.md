@@ -13,3 +13,5 @@ Objectif : découvrir les states et certaines fonctions avancées de React Nativ
 installer la navigation
 
 $ npm install @react-navigation/native @react-navigation/native-stack
+
+$ expo install react-native-screens react-native-safe-area-context
